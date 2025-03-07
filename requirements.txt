@@ -2,11 +2,14 @@
 
 #Packages needed by this project
 functions-framework==3.*
-pandas
-google.cloud.bigquery
-google.cloud.storage
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-logging
+requests
+python-dotenv
 db-dtypes
 yfinance
+pydantic
 
 
 #GCLOUD
